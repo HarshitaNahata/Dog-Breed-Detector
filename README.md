@@ -1,16 +1,3 @@
 # dog_breed
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Dog Breed Detector is a mobile application built using Flutter and TensorFlow Lite (tflite) that identifies the breed of a dog from a photo. The app uses a pre-trained machine learning model to analyze the image and provide the breed name as output. This application is useful for dog enthusiasts, pet owners, and veterinarians.
